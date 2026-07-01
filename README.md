@@ -14,9 +14,9 @@
 <img src="https://pos.nvncdn.com/f2fe44-24897/store/20180126_gVLn1I1Irv2dz2XjhYDIshMM.png" alt="Banlinhkien" width="50" />   [**BanLinhKien**](https://banlinhkien.com/)
 
 ---
-# <p align="center"> 🤖 Bộ KIT Học Tập Arduino I2C BLK </p>
+# <p align="center"> <img src="https://img.icons8.com/?size=100&id=QpHTqGVFwpUR&format=png&color=000000"  width="50"/> Bộ KIT Học Tập Arduino I2C BLK  <img src="https://img.icons8.com/?size=100&id=QpHTqGVFwpUR&format=png&color=000000"  width="50"/> </p>
 
-### 🌟 Giới Thiệu
+### <img src="https://img.icons8.com/?size=100&id=QpHTqGVFwpUR&format=png&color=000000"  width="50"/> Giới Thiệu
 
 **Bộ KIT Học Tập Arduino I2C BLK** được xây dựng với mục tiêu mang đến một phương pháp học Arduino hiện đại, trực quan và gọn gàng thông qua việc sử dụng duy nhất giao tiếp I2C 4 dây (VCC, GND, SDA, SCL).
 
@@ -36,21 +36,18 @@ Thay vì phải kết nối nhiều dây tín hiệu phức tạp như các bộ
 - Người yêu thích chế tạo, DIY và nghiên cứu sản phẩm thông minh.
 
 
-### 🎯 Mục Tiêu Của Bộ KIT
+### <img src="https://img.icons8.com/?size=100&id=QpHTqGVFwpUR&format=png&color=000000"  width="50"/> Mục Tiêu Của Bộ KIT
 
-✅ Làm quen với Arduino Nano.
+- <img src="https://img.icons8.com/?size=100&id=pIPl8tqh3igN&format=png&color=000000"  width="20"/> Lập trình thành thạo với Arduino Nano.
+- <img src="https://img.icons8.com/?size=100&id=pIPl8tqh3igN&format=png&color=000000"  width="20"/> Hiểu nguyên lý và sử dụng giao tiếp I2C.
+- <img src="https://img.icons8.com/?size=100&id=pIPl8tqh3igN&format=png&color=000000"  width="20"/> Trải nghiệm thao tác kết nối phần cứng đơn giản thông qua giao thức I2C
+- <img src="https://img.icons8.com/?size=100&id=pIPl8tqh3igN&format=png&color=000000"  width="20"/> Học thêm các module mới thông qua các PRJ trực quan
+- <img src="https://img.icons8.com/?size=100&id=pIPl8tqh3igN&format=png&color=000000"  width="20"/> Xây dựng giao diện OLED chuyên nghiệp.
+- <img src="https://img.icons8.com/?size=100&id=pIPl8tqh3igN&format=png&color=000000"  width="20"/> Thiết kế hệ thống menu bằng Rotary Encoder.
+- <img src="https://img.icons8.com/?size=100&id=pIPl8tqh3igN&format=png&color=000000"  width="20"/> Kết hợp cảm biến và cơ cấu chấp hành.
+- <img src="https://img.icons8.com/?size=100&id=pIPl8tqh3igN&format=png&color=000000"  width="20"/> Phát triển sản phẩm STEM thực tế.
 
-✅ Hiểu nguyên lý giao tiếp I2C.
-
-✅ Xây dựng giao diện OLED chuyên nghiệp.
-
-✅ Thiết kế hệ thống menu bằng Rotary Encoder.
-
-✅ Kết hợp cảm biến và cơ cấu chấp hành.
-
-✅ Phát triển sản phẩm STEM thực tế.
-
-### 🚀 Các Dự Án Thực Hành
+### <img src="https://img.icons8.com/?size=100&id=QpHTqGVFwpUR&format=png&color=000000"  width="50"/> Các Dự Án Thực Hành
 
 | Mã     | Dự Án                              |
 | ------ | ---------------------------------- | 
@@ -62,23 +59,18 @@ Thay vì phải kết nối nhiều dây tín hiệu phức tạp như các bộ
 
 
 
-### 🏆 Sau Khi Hoàn Thành Bộ KIT
+### <img src="https://img.icons8.com/?size=100&id=QpHTqGVFwpUR&format=png&color=000000"  width="50"/> Sau Khi Hoàn Thành Bộ KIT
 
 Người học sẽ có thể:
 
-🎯 Thành thạo Arduino IDE.
-
-🎯 Hiểu sâu giao tiếp I2C.
-
-🎯 Thiết kế giao diện OLED.
-
-🎯 Lưu dữ liệu bằng EEPROM.
-
-🎯 Xây dựng hệ thống menu chuyên nghiệp.
-
-🎯 Tự phát triển sản phẩm STEM của riêng mình.
+<img src="https://img.icons8.com/?size=100&id=44806&format=png&color=000000"  width="25"/> Thành thạo Arduino IDE.
+<img src="https://img.icons8.com/?size=100&id=44806&format=png&color=000000"  width="25"/> Hiểu sâu giao tiếp I2C.
+<img src="https://img.icons8.com/?size=100&id=44806&format=png&color=000000"  width="25"/> Thiết kế giao diện OLED.
+<img src="https://img.icons8.com/?size=100&id=44806&format=png&color=000000"  width="25"/> Lưu dữ liệu bằng EEPROM.
+<img src="https://img.icons8.com/?size=100&id=44806&format=png&color=000000"  width="25"/> Xây dựng hệ thống menu chuyên nghiệp.
+<img src="https://img.icons8.com/?size=100&id=44806&format=png&color=000000"  width="25"/> Tự phát triển sản phẩm STEM của riêng mình.
 
 ---
 
-### <p align="center">  🚀 BỘ KIT HỌC TẬP ARDUINO I2C BLK </p>
+### <p align="center">  <img src="https://img.icons8.com/?size=100&id=2zMUsHyYkDSS&format=png&color=000000"  width="50"/> BỘ KIT HỌC TẬP ARDUINO I2C BLK <img src="https://img.icons8.com/?size=100&id=2zMUsHyYkDSS&format=png&color=000000"  width="50"/> </p>
 <p align="center">    Kết nối thông minh- Dự án không giới hạn</p>
